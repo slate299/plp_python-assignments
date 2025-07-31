@@ -1,5 +1,5 @@
 ### ✅ Week 1
-- [calculator](week_1/calculator.py) – A Python program that acts as a basic calculator and supports several arithmetic operations. (See details below 👇)
+- [calculator](calculator.py) – A Python program that acts as a basic calculator and supports several arithmetic operations. (See details below 👇)
 
 ---
 
