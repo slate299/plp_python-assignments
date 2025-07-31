@@ -23,8 +23,9 @@ To run the calculator, navigate to the folder in your terminal and run:
 ```bash
 python calculator.py
 
-🛠️ Example output:
-
+---
+### 🛠️ Example output:
+```
 🔢 Welcome to my basic Python Calculator!
 Available operators: +  -  *  /  %  **  //
 Enter the first number: 4
