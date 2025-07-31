@@ -23,7 +23,7 @@ To run the calculator, navigate to the folder in your terminal and run:
 ```bash
 python calculator.py
 
----
+```
 ### 🛠️ Example output:
 ```
 🔢 Welcome to my basic Python Calculator!
